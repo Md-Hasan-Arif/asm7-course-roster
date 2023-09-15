@@ -11,7 +11,7 @@ const Blogs = () => {
         .then(data => setBlog(data))
     },[])
     return (
-        <div>
+        <div className='grid grid-cols-3 w-3/4'>
            
             {
                 blogs.map(blog => <Blog 

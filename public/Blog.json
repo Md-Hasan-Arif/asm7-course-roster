@@ -1,74 +1,74 @@
 [
   {
     "id": 101,
-    "course_name": "Introduction to Web Development",
+    "course_name": "Introduction to OOP Python",
     "cover_image": "https://i.ibb.co/KjSWbxG/Rectangle-2.png",
-    "details": "Learn the basics of HTML, CSS, and JavaScript.",
-    "credit": 40,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "credit": 9,
     "price": 49.99
   },
   {
     "id": 102,
     "course_name": "Digital Marketing Fundamentals",
     "cover_image": "https://i.ibb.co/b1Lrs8n/Rectangle-2-1.png",
-    "details": "Explore SEO, social media, and online advertising.",
-    "credit": 35,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "credit": 8,
     "price": 39.99
   },
   {
     "id": 103,
-    "course_name": "Data Science for Beginners",
+    "course_name": "Introduction to C Programming",
     "cover_image": "https://i.ibb.co/mFjxptc/Rectangle-2-2.png",
-    "details": "Dive into data analysis and machine learning basics.",
-    "credit": 50,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "credit": 6,
     "price": 59.99
   },
   {
     "id": 104,
-    "course_name": "Graphic Design Mastery",
+    "course_name": "Introduction to Algorithms",
     "cover_image": "https://i.ibb.co/jVNyp8z/Rectangle-2-3.png",
-    "details": "Create stunning visuals using Adobe Creative Suite.",
-    "credit": 45,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "credit": 5,
     "price": 54.99
   },
   {
     "id": 105,
-    "course_name": "Mobile App Development with React Native",
+    "course_name": "Introduction to C++ for DSA",
     "cover_image": "https://i.ibb.co/PQVKrKH/Rectangle-2-4.png",
-    "details": "Build cross-platform mobile apps with React Native.",
-    "credit": 60,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "credit": 8,
     "price": 69.99
   },
   {
     "id": 106,
-    "course_name": "Business Ethics and Leadership",
+    "course_name": "Software Engineering",
     "cover_image": "https://i.ibb.co/BwsfHBB/Rectangle-2-5.png",
-    "details": "Learn ethical decision-making and leadership skills.",
-    "credit": 30,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout..",
+    "credit": 8,
     "price": 34.99
   },
   {
     "id": 107,
-    "course_name": "Creative Writing Workshop",
+    "course_name": "Problem-Solving Part",
     "cover_image": "https://i.ibb.co/y0TR40j/Rectangle-2-6.png",
-    "details": "Develop your writing skills and storytelling abilities.",
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
     "credit": 25,
     "price": 29.99
   },
   {
     "id": 108,
-    "course_name": "Introduction to Astronomy",
+    "course_name": "Basic Data Structures",
     "cover_image": "https://i.ibb.co/nnqt0bF/Rectangle-3.png",
-    "details": "Explore the wonders of the universe and celestial bodies.",
-    "credit": 20,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "credit": 5,
     "price": 24.99
   },
   {
     "id": 109,
-    "course_name": "Culinary Arts for Beginners",
+    "course_name": "AWS, Cloud Computing",
     "cover_image": "https://i.ibb.co/0ZBxtfm/Rectangle-3-1.png",
-    "details": "Master the art of cooking with fundamental techniques.",
-    "credit": 40,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "credit": 7,
     "price": 49.99
   }
 ]
