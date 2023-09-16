@@ -2,6 +2,8 @@ import { data } from 'autoprefixer';
 import React, { useEffect, useState } from 'react';
 import Blog from './blog';
 import Card from '../Card/card';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 const Blogs = () => {
@@ -16,15 +18,15 @@ const Blogs = () => {
         const isExist = SelectedCourse.find((item => item.id == blog.id));
         let addCredit = blog.credit;
         if(isExist){
-           return alert ("already exist")
+           return toast ("already exist")
         }
         else{
             SelectedCourse.forEach((item) =>{
                 addCredit = addCredit+ item.credit
             })
             const totalRemaining = 20 - addCredit;
-            if(addCredit >= 20){
-                return alert("you can't add more")
+            if(addCredit >=20){
+                return toast("you can't add more")
             }
             else{
                 setCredit(addCredit)
@@ -62,6 +64,7 @@ const Blogs = () => {
                 remaining = {Remaining}
                 credit = {credit}
                 ></Card>
+                <ToastContainer></ToastContainer>
             </div>
         </div>
     );

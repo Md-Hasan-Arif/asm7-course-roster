@@ -12,7 +12,7 @@
     "course_name": "Digital Marketing Fundamentals",
     "cover_image": "https://i.ibb.co/b1Lrs8n/Rectangle-2-1.png",
     "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    "credit": 8,
+    "credit": 2,
     "price": 39.99
   },
   {
@@ -36,7 +36,7 @@
     "course_name": "Introduction to C++ for DSA",
     "cover_image": "https://i.ibb.co/PQVKrKH/Rectangle-2-4.png",
     "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    "credit": 8,
+    "credit": 6,
     "price": 69.99
   },
   {
@@ -44,7 +44,7 @@
     "course_name": "Software Engineering",
     "cover_image": "https://i.ibb.co/BwsfHBB/Rectangle-2-5.png",
     "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout..",
-    "credit": 8,
+    "credit": 4,
     "price": 34.99
   },
   {
@@ -52,7 +52,7 @@
     "course_name": "Problem-Solving Part",
     "cover_image": "https://i.ibb.co/y0TR40j/Rectangle-2-6.png",
     "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    "credit": 25,
+    "credit": 5,
     "price": 29.99
   },
   {
@@ -60,7 +60,7 @@
     "course_name": "Basic Data Structures",
     "cover_image": "https://i.ibb.co/nnqt0bF/Rectangle-3.png",
     "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    "credit": 5,
+    "credit": 4,
     "price": 24.99
   },
   {
@@ -68,7 +68,7 @@
     "course_name": "AWS, Cloud Computing",
     "cover_image": "https://i.ibb.co/0ZBxtfm/Rectangle-3-1.png",
     "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    "credit": 7,
+    "credit": 3,
     "price": 49.99
   }
 ]
