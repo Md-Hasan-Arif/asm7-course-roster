@@ -17,8 +17,8 @@ const Card = ({ SelectedCourse, remaining, credit }) => {
                 <div>
                     {
                         SelectedCourse.map((course) => (
-
-                            <li key={course.id}>{course.course_name}</li>
+                                
+                            <li  key={course.id}>{course.course_name}</li>
 
                         ))
                     }

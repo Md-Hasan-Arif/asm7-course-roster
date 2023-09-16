@@ -23,7 +23,13 @@ const Blogs = () => {
                 addCredit = addCredit+ item.credit
             })
             const totalRemaining = 20 - addCredit;
-            setCredit(addCredit)
+            if(addCredit >= 20){
+                return alert("you can't add more")
+            }
+            else{
+                setCredit(addCredit)
+            }
+            
             setRemaining(totalRemaining)
             setCourse([...SelectedCourse, blog])
         }
