@@ -1,9 +1,9 @@
-// import Blog from "../Blog/blog";
 
 
-const Card = ({ SelectedCourse, remaining, credit  }) => {
+
+const Card = ({ SelectedCourse, remaining, credit }) => {
     console.log(remaining)
-    
+
 
 
     return (
@@ -11,22 +11,22 @@ const Card = ({ SelectedCourse, remaining, credit  }) => {
             <div className="text-lg font-semibold   text-[#2F80ED]">
                 <h3>Credit Hour Remaining : {remaining}</h3>
             </div>
-             <hr />
+            <hr />
             <div>
                 <h2 className="text-xl font-bold">Course Name :</h2>
                 <div>
-                {
-                SelectedCourse.map((course) => (
-                   
-                        <li key={course.id}>{course.course_name}</li>
-                    
-                ))
-            }
+                    {
+                        SelectedCourse.map((course) => (
+
+                            <li key={course.id}>{course.course_name}</li>
+
+                        ))
+                    }
                 </div>
             </div>
             <hr />
             <p className="text-base font-medium">Total Credit Hour :{credit}</p>
-            <hr /> 
+            <hr />
             <p className="text-base font-medium">Total Price :</p>
 
         </div>
