@@ -25,7 +25,7 @@ const Card = ({ SelectedCourse, remaining, credit }) => {
                 </div>
             </div>
             <hr />
-            <p className="text-base font-medium">Total Credit Hour :{credit}</p>
+            <p className="text-base font-normal">Total Credit Hour :{credit}</p>
             <hr />
             <p className="text-base font-medium">Total Price :</p>
 
